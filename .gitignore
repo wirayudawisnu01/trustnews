@@ -1,0 +1,34 @@
+# # Binary file hasil build
+# *.exe
+# *.out
+# *.dll
+# *.so
+# *.dylib
+
+# # Folder hasil build Go
+# bin/
+# build/
+# dist/
+temp/
+
+# # Folder atau file yang dibuat oleh editor/IDE
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
+
+# # Cache & Dependency manager
+# vendor/
+# go.sum
+
+# # File runtime atau log
+# *.log
+# *.tmp
+# *.pid
+
+# # Environment files (sudah kamu punya, bagus!)
+# # .env
+
+# # OS-specific
+# .DS_Store
+# Thumbs.db
